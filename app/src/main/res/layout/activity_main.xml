@@ -7,7 +7,7 @@
     tools:context="com.co.uco.clase.uno.MainActivity">
 
     <EditText
-        android:id="@+id/txt"
+        android:id="@+id/nombreTxt"
         android:layout_width="0dp"
         android:layout_height="47dp"
         android:layout_marginBottom="8dp"
